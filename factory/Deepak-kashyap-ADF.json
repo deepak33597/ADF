@@ -1,0 +1,9 @@
+{
+	"name": "Deepak-kashyap-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0882e1ca-3cf9-4877-8327-eb405933920e",
+		"tenantId": "19d43f38-e1d5-4f01-bec7-898db1efbc1b"
+	}
+}
