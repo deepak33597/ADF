@@ -1,0 +1,16 @@
+{
+	"name": "AzureSqlTable3_change_log_sink",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase_deepak",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "change_log_sink"
+		}
+	}
+}
